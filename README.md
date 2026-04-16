@@ -1,10 +1,10 @@
-## 🔁 JavaScript Loops & Array Methods
+## JavaScript Loops & Array Methods
 
 This section explains different ways to iterate through arrays and objects, along with commonly used array methods like `map`, `filter`, and `reduce`.
 
 ---
 
-## 🔢 Looping Through an Array
+## Looping Through an Array
 
 JavaScript provides multiple ways to loop through an array:
 
@@ -15,14 +15,14 @@ JavaScript provides multiple ways to loop through an array:
 
 ---
 
-## 👨‍🎓 Looping Through an Object
+## Looping Through an Object
 
 Objects in JavaScript can be iterated using the `for...in` loop.  
 This loop allows you to access each key in the object and retrieve its corresponding value. It is useful when working with structured data like user profiles or records.
 
 ---
 
-## 🗺️ Using `map()`
+## Using `map()`
 
 The `map()` method is used to transform elements in an array.
 
@@ -34,7 +34,7 @@ This is commonly used when you want to update or process data without changing t
 
 ---
 
-## 🔍 Using `filter()`
+## Using `filter()`
 
 The `filter()` method is used to select specific elements from an array based on a condition.
 
@@ -46,7 +46,7 @@ Useful for tasks like finding values greater than a certain number or extracting
 
 ---
 
-## ➕ Using `reduce()`
+## Using `reduce()`
 
 The `reduce()` method is used to combine all elements of an array into a single value.
 
