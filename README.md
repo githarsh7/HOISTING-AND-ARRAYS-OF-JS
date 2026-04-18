@@ -67,6 +67,4 @@ It is often used for calculations like totals, averages, or combining data into 
 - Data aggregation using `reduce()`
 
 ## Connect With Me 🤝 :
-- LinkedIn : [HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
-
----
+[HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
